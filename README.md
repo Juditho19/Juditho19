@@ -1,6 +1,7 @@
 Hi there, I'm Judith Onyejekwe! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](![banner_image](https://github.com/user-attachments/assets/3149ca2b-93c6-4bc5-8381-76f3339ed103))
+
 
 ## About Me 🚀
 
