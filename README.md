@@ -1,55 +1,112 @@
-Hi there, I'm Judith Onyejekwe! 👋
+<h1 align="center">Hi there, I'm Judith Onyejekwe! 👋</h1>
+<p align="center">
+  <i>A passionate aspiring Full Stack Developer blending creativity, logic, and impact</i>
+</p>
 
-![banner_image](https://github.com/user-attachments/assets/8ee96316-aabc-4914-b3e7-620c561f0ae8)
+---
 
-
-## About Me 🚀
+## 🚀 About Me
 
 I'm a passionate **aspiring Full Stack Developer** with a growing foundation in **Python, C, HTML, and Scratch**. I love solving real-world problems through code, collaborating on creative projects, and learning tools that make a difference.
 
 - 🌱 Currently learning: **Python, C, front-end development, and Git**
 - 🔭 Working on: **Student Budget Planner, Sky Trials (Scratch game), and improving my personal website**
-- 🌍 Languages: **Python, C, Scratch, HTML (beginner)** | Human: **English, learning German**
-- 📫 How to reach me: **onyejekwejudith@gmail.com**
-- ⚡ Fun fact: **I used to lead my school’s computer club, and I enjoy blending storytelling with tech to empower communities.**
+- 🌍 Languages: **Python, C, Scratch, HTML (beginner)** | Human: **English**, learning **German**
+- 📫 Reach me: **onyejekwejudith@gmail.com**
+- ⚡ Fun fact: I used to lead my school’s computer club, and I love blending **storytelling with tech** to empower communities.
 
-## My Skills 🧠
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Scratch](https://img.shields.io/badge/-Scratch-FFA500?style=flat-square&logo=scratch&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+## 🧠 My Skills
 
-## Featured Projects 💻
-![Screenshot (109)](https://github.com/user-attachments/assets/44ed4b20-b76b-4b7e-b3d5-30d1fab667f9)
+### 💻 Languages & Tools
 
-### [Nova]([project_1_link](https://www.youtube.com/watch?v=3LLkJOVeU9E))
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
+### 🔧 Tools & Productivity
 
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-![Nova Screenshot](![Uploading Screenshot (109).png…]())
+---
 
-**Nova** is a **digital platform concept** developed during the ALX Foundation Course. It aims to bridge the gap between under-resourced youth and personal development opportunities. This project highlights my skills in **leadership, UX thinking, and social impact design**. You can check out the pitch [here](project_1_repository_link).
+## 💻 Featured Projects
 
-### [Fourth Wing: Sky Trials]([project_2_link](https://scratch.mit.edu/projects/1160296830))
+### 🌟 Nova – Social Impact Design
 
-![Sky Trials Screenshot](![Screenshot (110)](https://github.com/user-attachments/assets/deb6acc5-99a1-4615-b995-84d368581f1d))
+![Nova Project Screenshot](https://github.com/user-attachments/assets/44ed4b20-b76b-4b7e-b3d5-30d1fab667f9)
 
+**Nova** is a **digital platform concept** developed during the ALX Foundation Course. It bridges the gap between under-resourced youth and personal development opportunities.  
+This project showcases my skills in **leadership, UX thinking, and social impact design**.  
 
+- 🎥 [Watch the pitch on YouTube](https://www.youtube.com/watch?v=3LLkJOVeU9E)  
+- 🔗 [View GitHub Repo](https://github.com/YOUR_USERNAME/nova) <!-- Replace with your actual repo -->
 
-**Sky Trials** is a **Scratch-based aerial dodging game** inspired by *Fourth Wing*. It demonstrates my creativity, game logic, and problem-solving abilities. Built with **Scratch**, it challenges players to navigate obstacles and complete training missions.
+---
 
-### [Student Budget Planner](project_3_link)
+### 🐉 Sky Trials – Fantasy-Inspired Scratch Game
 
-![Budget Planner Screenshot](![Screenshot (111)](https://github.com/user-attachments/assets/60d0892d-4f5e-4ec1-81ac-b5804ba8e1e8))
+![Sky Trials Screenshot](https://github.com/user-attachments/assets/60d0892d-4f5e-4ec1-81ac-b5804ba8e1e8)
 
+**Sky Trials** is a **Scratch-based aerial dodging game** inspired by *Fourth Wing*. It demonstrates my creativity, game logic, and problem-solving abilities.  
+Built with **Scratch**, it challenges players to dodge obstacles and complete training missions.  
 
+- 🎮 [Play on Scratch](https://scratch.mit.edu/projects/1160296830)  
+- 🔗 [View GitHub Repo](https://github.com/YOUR_USERNAME/sky-trials)
 
-This **Python-based tool** helps students track income and expenses, encouraging financial literacy. It reflects my practical problem-solving and back-end logic development.
+---
 
-## Get in Touch 📬
+## 🗂️ Current & Upcoming Projects
 
-- **[Portfolio Website](https://judithonyejekwe.my.canva.site/my-portfolio-website)**
-- **[LinkedIn](https://www.linkedin.com/in/judith-onyejekwe-34bb16288/)**
+- 📊 **Student Budget Planner** – Track expenses and improve budgeting skills with Python
+- 🕹️ **Sky Trials Expansion** – Add powerups, animations, and new mechanics to the original game
+- 🌐 **Personal Website** – My portfolio to showcase projects and skills (in progress)
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Master front-end fundamentals
+- 🔗 Contribute to open source projects
+- 🧩 Complete 5+ strong portfolio projects
+- 🌍 Land my first paid remote developer role
+- ✍️ Publish a blog or give a talk on **tech + storytelling**
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:onyejekwejudith@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> I believe great code is like great fiction—structured, creative, and powerful enough to change lives.
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 🙌<br>
+  <i>Let’s connect, collaborate, and create something amazing.</i>
+</p>
