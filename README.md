@@ -21,6 +21,11 @@ I'm a passionate Full Stack Developer with experience in growing foundation in P
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+Programming Skills
+Design & Technical Tools: AutoCAD, Canva
+Productivity Tools: Microsoft Word, Excel, PowerPoint, Google Docs
+Soft Skills: Problem-Solving, Team Collaboration, Leadership, Attention to Detail
+
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
