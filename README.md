@@ -7,11 +7,12 @@
 
 I'm a passionate Full Stack Developer with experience in growing foundation in Python, C, HTML. CSS, and Scratch I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Python, C, front-end development, and Git
-- 🔭 Working on: Student Budget Planner, Sky Trials (Scratch game), and improving my personal website
-- 🌍 Languages: Python, C, Scratch, HTML (beginner) | Human: English, learning German
-- 📫 How to reach me: onyejekwejudith@gmail.com
-- ⚡ Fun fact: I used to lead my school’s computer club, and I love blending storytelling with tech to empower communities.
+- 🌱 Currently learning: JavaScript, React, and front-end web development
+- 🔭 Working on: Student Budget Planner, Recipe Page, Blog Preview Card
+- 🌍 Languages: Python, C, Scratch, HTML/CSS | Human: English, learning German
+- 📫 Reach me: onyejekwejudith@gmail.com
+- ⚡ Fun fact: I led my school’s computer club and love combining tech with creativity to empower communities.
+
 
 ## My Skills 🧠
 
@@ -21,48 +22,69 @@ I'm a passionate Full Stack Developer with experience in growing foundation in P
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-Programming Skills
-Design & Technical Tools: AutoCAD, Canva
-Productivity Tools: Microsoft Word, Excel, PowerPoint, Google Docs
-Soft Skills: Problem-Solving, Team Collaboration, Leadership, Attention to Detail
+
+### 🎨 Design & Tools
+AutoCAD | Canva  
+Microsoft Word | Excel | PowerPoint | Google Docs
+
+### 💡 Soft Skills
+Problem Solving | Team Collaboration | Leadership | Creative Thinking | Attention to Detail
 
 
 ## Featured Projects 💻
 
-NOVA 
-![nova screenshot](https://github.com/user-attachments/assets/62f18ec4-e162-4292-8edd-4fdb3b7fa1db)
-Nova is a digital platform concept developed during the ALX Foundation Course. It bridges the gap between under-resourced youth and personal development opportunities.
-This project showcases my skills in leadership, UX thinking, and social impact design.
+### 🔧 Web Projects
 
-Watch Pitch video - https://www.youtube.com/watch?si=X6N9m6HSjaoX5WKm&v=3LLkJOVeU9E&feature=youtu.be
+#### 🧾 Recipe Page  
+A responsive, semantic recipe webpage built with HTML and CSS. Designed using mobile-first principles, BEM naming, and accessible markup.  
+**[Live Demo](#)** | **[View Code](#)**  
+*(Inspired by a design challenge to improve layout and accessibility.)*
 
-### FOURTH WING: SKY TRIALS 
-![Screenshot (805)](https://github.com/user-attachments/assets/15d3c9eb-f1c4-4144-ba7c-2435f3128305)
-Sky Trials is a Scratch-based aerial dodging game inspired by Fourth Wing. It demonstrates my creativity, game logic, and problem-solving abilities.
-Built with Scratch, it challenges players to dodge obstacles and complete training missions.
+#### 📰 Blog Preview Card  
+A minimalist blog preview component with clean layout, hover effects, and custom font styling. Demonstrates strong visual hierarchy and component-based thinking.  
+**[Live Demo](#)** | **[View Code](#)**
 
-Play Game - https://scratch.mit.edu/projects/1160296830
+#### 📊 Student Budget Planner  
+A practical tool to help students track income and expenses. Built with Python and designed to promote real-life budgeting skills.  
+**Status:** In Progress
+
+---
+
+### 🎮 Creative & Other Tech Projects
+
+#### ✈️ Fourth Wing: Sky Trials  
+A Scratch-based aerial dodging game inspired by *Fourth Wing*. Players must survive flight training and dodge obstacles using quick reflexes.  
+Demonstrates creativity, logic, and custom animation in Scratch.  
+**[Play Game](https://scratch.mit.edu/projects/1160296830)**
+
+#### 🌟 NOVA – Digital Platform Concept  
+Nova is a personal development platform pitched during the ALX Foundation Course. Designed to connect under-resourced youth with growth opportunities.  
+Showcases leadership, collaboration, and design thinking.  
+**[Watch Pitch Video](https://www.youtube.com/watch?si=X6N9m6HSjaoX5WKm&v=3LLkJOVeU9E&feature=youtu.be)**
+
 
 ## 🗂️ Current & Upcoming Projects
 
-- 📊 **Student Budget Planner** – Track expenses and improve budgeting skills with Python
-- 🕹️ **Sky Trials Expansion** – Add powerups, animations, and new mechanics to the original game
-- 🌐 **Personal Website** – My portfolio to showcase projects and skills (in progress)
+- 📊 **Student Budget Planner** – Track expenses and income (Python, CLI)
+- 🍳 **Recipe Page** – Responsive layout, semantic HTML, mobile-first CSS
+- 📰 **Blog Preview Card** – Component-based CSS layout
+- 🕹️ **Sky Trials Expansion** – Add new mechanics and animations
+- 🌐 **Portfolio Website** – Showcasing projects and web dev skills
+
 
 ## 🎯 2025 Goals
 
-- ✅ Master front-end fundamentals
+- ✅ Master front-end fundamentals (HTML, CSS, JS, React)
 - 🔗 Contribute to open source projects
-- 🧩 Complete 5+ strong portfolio projects
-- 🌍 Land my first paid remote developer role
-- ✍️ Write my first book
+- 🧩 Complete 5+ portfolio projects
+- 🌍 Land my first paid remote dev role
+- ✍️ Start writing my first book
+
 
 
 ## Get in Touch 📬
 
-- Personal Website - https://judithonyejekwe.my.canva.site/my-portfolio-website
-- Linkedln - https://www.linkedin.com/in/judith-onyejekwe-34bb16288/
-
-
-
+- 🌐 [Portfolio Website](https://judithonyejekwe.my.canva.site/my-portfolio-website)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/judith-onyejekwe-34bb16288/)  
+- 📧 Email: onyejekwejudith@gmail.com
 
