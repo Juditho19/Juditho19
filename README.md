@@ -26,7 +26,6 @@ Design & Technical Tools: AutoCAD, Canva
 Productivity Tools: Microsoft Word, Excel, PowerPoint, Google Docs
 Soft Skills: Problem-Solving, Team Collaboration, Leadership, Attention to Detail
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
