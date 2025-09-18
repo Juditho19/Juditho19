@@ -1,11 +1,12 @@
 # Hi there, I'm Judith Onyejekwe! 👋
 
-![banner image](https://github.com/user-attachments/assets/1291328d-d436-4a9c-8f5f-662514c0b842)
+
+<img width="2000" height="600" alt="banner-image" src="https://github.com/user-attachments/assets/36e99755-0bb7-459b-bcae-0ca65f8afe52" />
 
 
 ## About Me 🚀
 
-I'm a passionate Full Stack Developer with experience in growing foundation in Python, C, HTML. CSS, and Scratch I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Front-EndDeveloper with experience in growing foundation in Python, C, HTML. CSS, and Scratch I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: JavaScript, React, and front-end web development
 - 🔭 Working on: Student Budget Planner, Recipe Page, Blog Preview Card
@@ -78,13 +79,13 @@ Showcases leadership, collaboration, and design thinking.
 - 🔗 Contribute to open source projects
 - 🧩 Complete 5+ portfolio projects
 - 🌍 Land my first paid remote dev role
-- ✍️ Start writing my first book
+
 
 
 
 ## Get in Touch 📬
 
 - 🌐 [Portfolio Website](https://judithonyejekwe.my.canva.site/my-portfolio-website)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/judith-onyejekwe-34bb16288/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/judith/)  
 - 📧 Email: onyejekwejudith@gmail.com
 
