@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Front-EndDeveloper with experience in growing foundation in Python, C, HTML. CSS, and Scratch I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Front-EndDeveloper with experience in growing foundation in Python, C++, HTML. CSS, and Scratch I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: JavaScript, React, and front-end web development
 - 🔭 Working on: Student Budget Planner, Recipe Page, Blog Preview Card
